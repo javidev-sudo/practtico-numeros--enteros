@@ -1,0 +1,9 @@
+C:\programacion1\practico_numeros_enteros\practico_numeros_enteros\bin\Debug\practico_numeros_enteros.exe.config
+C:\programacion1\practico_numeros_enteros\practico_numeros_enteros\bin\Debug\practico_numeros_enteros.exe
+C:\programacion1\practico_numeros_enteros\practico_numeros_enteros\bin\Debug\practico_numeros_enteros.pdb
+C:\programacion1\practico_numeros_enteros\practico_numeros_enteros\obj\Debug\practico_numeros_enteros.csprojResolveAssemblyReference.cache
+C:\programacion1\practico_numeros_enteros\practico_numeros_enteros\obj\Debug\practico_numeros_enteros.Form1.resources
+C:\programacion1\practico_numeros_enteros\practico_numeros_enteros\obj\Debug\practico_numeros_enteros.Properties.Resources.resources
+C:\programacion1\practico_numeros_enteros\practico_numeros_enteros\obj\Debug\practico_numeros_enteros.csproj.GenerateResource.Cache
+C:\programacion1\practico_numeros_enteros\practico_numeros_enteros\obj\Debug\practico_numeros_enteros.exe
+C:\programacion1\practico_numeros_enteros\practico_numeros_enteros\obj\Debug\practico_numeros_enteros.pdb
